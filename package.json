@@ -1,5 +1,5 @@
 {
-  "name": "hono-bcpa",
+  "name": "y",
   "scripts": {
     "dev": "bun run --hot src/index.ts"
   },
